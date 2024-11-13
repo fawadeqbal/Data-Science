@@ -25,10 +25,9 @@ Welcome to **DataScience Concepts**, a comprehensive repository that demonstrate
 
 ### 5. **Deep Learning Models**
    - Neural Networks (Feedforward, CNN, RNN, LSTM)
-   - Generative Adversarial Networks (GANs)
-   - Autoencoders
-   - Transfer Learning (using pre-trained models like ResNet)
-
+   - Transfer Learning: Leveraging pre-trained models like ResNet for custom tasks.
+   - Transformers: Applied to sequence-to-sequence tasks such as text generation and translation.
+   - 
 ### 6. **Model Evaluation and Tuning**
    - Cross-Validation
    - Hyperparameter Tuning using Grid Search
